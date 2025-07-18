@@ -1,0 +1,11 @@
+# import base image
+
+# create our work folder to be called app
+
+# copy everything into workdir
+
+# install requirement
+
+# expose on a particular port
+
+# run command CMD
