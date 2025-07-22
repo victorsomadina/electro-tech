@@ -1,12 +1,4 @@
 pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
-scipy
-ipykernel
-pickle
-streamlit
-
-# xgboost
- 
+# pickle
+streamlit 
+prophet
