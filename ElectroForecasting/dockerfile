@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 8501
 
 # run command CMD
-CMD ["streamlit", "run", "inference.py"]
+CMD ["python", "inference.py"]
