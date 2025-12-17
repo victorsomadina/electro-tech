@@ -1,4 +1,5 @@
 pandas
-# pickle
-streamlit 
+fastapi
+uvicorn
 prophet
+pydantic
